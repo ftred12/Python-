@@ -1,4 +1,5 @@
 #program to display grades
+username=input(Enter your username)
 sub1=int(input("Enter the marks scored for Maths:"))
 sub2=int(input("Enter the marks scored for SDLC:"))
 sub3=int(input("Enter the marks scored for OOSAD:"))
